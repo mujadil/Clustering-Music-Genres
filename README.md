@@ -1,4 +1,4 @@
-#Clustering Music Genres with Machine Learning
+# Clustering Music Genres with Machine Learning
 Project Overview
 
 This project demonstrates the use of machine learning to perform clustering analysis on music genres. The goal is to group songs based on the similarities in their audio characteristics using the K-means clustering algorithm.
