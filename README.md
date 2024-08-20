@@ -49,9 +49,11 @@ Run the clustering_music_genres.py script to perform the clustering analysis:
     python clustering_music_genres.py
 
 This will output the clustered data and a 3D visualization of the clusters based on selected audio features.
-Visualization
+
+## Visualization
 
 The clusters can be visualized using Plotly's 3D scatter plot, where each cluster is represented by a different color.
-Conclusion
+
+## Conclusion
 
 This project showcases how to use machine learning techniques to cluster music genres based on audio characteristics. The K-means algorithm effectively groups similar songs, which can be useful for music recommendation systems.
